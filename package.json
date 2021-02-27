@@ -1,6 +1,6 @@
 {
-  "name": "current-processes",
-  "version": "0.2.1",
+  "name": "current-processes-2",
+  "version": "1.0.1",
   "description": "Get a snapshot of the currently running processes, OS-agnostic",
   "main": "current-processes.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/branneman/current-processes.git"
+    "url": "https://github.com/fmalekpour/current-processes.git"
   },
   "dependencies": {
     "async": "^0.9.0",
@@ -27,9 +27,9 @@
   "author": "Bran van der Meer <branmovic@gmail.com> (http://bran.name/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/branneman/current-processes/issues"
+    "url": "https://github.com/fmalekpour/current-processes/issues"
   },
-  "homepage": "https://github.com/branneman/current-processes",
+  "homepage": "https://github.com/fmalekpour/current-processes",
   "keywords": [
     "processes",
     "os",
